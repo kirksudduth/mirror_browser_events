@@ -1,13 +1,13 @@
 #first_article {
   border: darkgoldenrod solid 1px;
-  flex-wrap: wrap;
-  width: 40%;
+  min-height: 20px;
+  flex: 0 0 40%;
 }
 
 #second_article {
-  flex-wrap: wrap;
   border: black solid 1px;
-  width: 40%;
+  min-height: 20px;
+  flex: 0 0 40%;
 }
 
 #article-section {
@@ -18,5 +18,5 @@
 }
 
 #message {
-  margin-left: 25px;
+  /* margin-left: 25px; */
 }

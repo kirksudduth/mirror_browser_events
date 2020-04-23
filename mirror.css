@@ -1,13 +1,13 @@
 #first_article {
   border: darkgoldenrod solid 1px;
   flex-wrap: wrap;
-  width: 40%;
+  max-width: 40%;
 }
 
 #second_article {
   flex-wrap: wrap;
   border: black solid 1px;
-  width: 40%;
+  max-width: 40%;
 }
 
 #article-section {

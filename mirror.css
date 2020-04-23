@@ -1,0 +1,22 @@
+#first_article {
+  border: darkgoldenrod solid 1px;
+  flex-wrap: wrap;
+  width: 40%;
+}
+
+#second_article {
+  flex-wrap: wrap;
+  border: black solid 1px;
+  width: 40%;
+}
+
+#article-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 10px;
+}
+
+#message {
+  margin-left: 25px;
+}
